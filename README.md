@@ -31,7 +31,7 @@ I am currently looking for opportunities to start my career in the tech industry
 ---
 
 ## 🔗 Live Portfolio
-👉 https://shivangisingh333.github.io/portfolio/
+👉 https://github.com/ShivangiSingh333/portfolio/tree/main
 
 ---
 
