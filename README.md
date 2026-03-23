@@ -36,9 +36,10 @@ I am currently looking for opportunities to start my career in the tech industry
 ---
 
 ## 📫 Contact Me
-- 📧 Email: shivanghisingh@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/shivangikumari-g  
+- 📧 Email: shivanghisingh39@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/shivangikumari/ 
 - 💻 GitHub: https://github.com/ShivangiSingh333  
+
 
 ---
 
